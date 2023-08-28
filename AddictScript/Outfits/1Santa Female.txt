@@ -1,35 +1,35 @@
-Model: Online Female
-Head: 0
-Head Variation: 0
-Mask: -1
-Mask Variation: 0
-Hair: 53
-Hair Colour: 27
-Top: 108
-Top Variation: 0
-Gloves / Torso: 52
-Gloves / Torso Variation: 0
-Top 2: 2
-Top 2 Variation: 0
-Top 3: 0
-Top 3 Variation: 0
-Parachute / Bag: 44
-Parachute / Bag Variation: 0
-Pants: 17
-Pants Variation: 4
-Shoes: 21
-Shoes Variation: 9
-Accessories: 0
-Accessories Variation: 0
-Decals: 0
-Decals Variation: 0
-Hat: 23
-Hat Variation: 0
-Glasses: -1
-Glasses Variation: 0
-Earwear: 12
-Earwear Variation: 0
-Watch: -1
-Watch Variation: 0
-Bracelet: -1
-Bracelet Variation: 0
+Modelo: Mujer Online
+Cabeza: 0
+Variación de cabeza: 0
+Máscara: -1
+Variación de máscara: 0
+Cabello: 53
+Color de cabello: 27
+Parte superior: 108
+Variación de la parte superior: 0
+Guantes / Torso: 52
+Variación de guantes / torso: 0
+Parte superior 2: 2
+Variación de la parte superior 2: 0
+Parte superior 3: 0
+Variación de la parte superior 3: 0
+Paracaídas / Bolsa: 44
+Variación de paracaídas / bolsa: 0
+Pantalones: 17
+Variación de pantalones: 4
+Zapatos: 21
+Variación de zapatos: 9
+Accesorios: 0
+Variación de accesorios: 0
+Calcomanías: 0
+Variación de calcomanías: 0
+Sombrero: 23
+Variación de sombrero: 0
+Gafas: -1
+Variación de gafas: 0
+Accesorio para la oreja: 12
+Variación de accesorio para la oreja: 0
+Reloj: -1
+Variación de reloj: 0
+Pulsera: -1
+Variación de pulsera: 0
